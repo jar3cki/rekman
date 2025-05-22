@@ -6,7 +6,7 @@
     "feed_url": "https://jar3cki.github.io/rekman/feed.json",
     "user_comment": "",
     "author": {
-        "name": "jar3cki &amp; bun:ski"
+        "name": "n2ostudio.pl"
     },
     "items": [
         {
@@ -16,7 +16,7 @@
             "summary": "REKMAN Zdzisław Kołodziej ul. Kmicica 10 65-123 Zielona Góra tel. 601 786 552 rekman@rekman.zgora.pl",
             "content_html": "<p><strong>REKMAN Zdzisław Kołodziej</strong><br>ul. Kmicica 10<br>65-123 Zielona Góra<br>tel. 601 786 552<br><span style=\"color: #ba372a;\"><a href=\"mailto\" target=\"_blank\" rel=\"noopener noreferrer\" style=\"color: #ba372a;\">rekman@rekman.zgora.pl</a></span></p>",
             "author": {
-                "name": "jar3cki &amp; bun:ski"
+                "name": "n2ostudio.pl"
             },
             "tags": [
             ],
@@ -27,10 +27,10 @@
             "id": "https://jar3cki.github.io/rekman/test-test.html",
             "url": "https://jar3cki.github.io/rekman/test-test.html",
             "title": "oferta",
-            "summary": "wynajem billboardów i innych powierzchni reklamowych montaż i wyklejanie billboardów budowa sieci tablic - usługa obejmuje pozyskanie lokalizacji pod tablice, produkcję tablic, ich instalację, druk&hellip;",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jar3cki.github.io/rekman/media/posts/1/1.jpg\" alt=\"\" width=\"998\" height=\"400\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://jar3cki.github.io/rekman/media/posts/1/responsive/1-xs.jpg 300w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-sm.jpg 480w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-md.jpg 768w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-lg.jpg 1024w\"></figure>\n<ul>\n<li><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: large;\">wynajem billboardów i innych powierzchni reklamowych</span></li>\n<li><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: large;\">montaż i wyklejanie billboardów</span></li>\n<li><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: large;\">budowa sieci tablic<br>- usługa obejmuje pozyskanie lokalizacji pod tablice, produkcję tablic, ich instalację, druk i wyklejanie plakatów, serwis zdjęciowy.</span></li>\n</ul>",
+            "summary": "wynajem billboardów i innych powierzchni reklamowych montaż i wyklejanie billboardów budowa sieci tablic - usługa obejmuje pozyskanie lokalizacji pod tablice, produkcję tablic, ich instalację, druk i wyklejanie plakatów, serwis zdjęciowy.",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://jar3cki.github.io/rekman/media/posts/1/1.jpg\" alt=\"\" width=\"998\" height=\"400\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://jar3cki.github.io/rekman/media/posts/1/responsive/1-xs.jpg 640w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-sm.jpg 768w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-md.jpg 1024w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-lg.jpg 1366w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-xl.jpg 1600w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-2xl.jpg 1920w\"></figure>\n<ul>\n<li><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: large;\">wynajem billboardów i innych powierzchni reklamowych</span></li>\n<li><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: large;\">montaż i wyklejanie billboardów</span></li>\n<li><span style=\"font-family: Arial, Helvetica, sans-serif; font-size: large;\">budowa sieci tablic<br>- usługa obejmuje pozyskanie lokalizacji pod tablice, produkcję tablic, ich instalację, druk i wyklejanie plakatów, serwis zdjęciowy.</span></li>\n</ul>",
             "author": {
-                "name": "jar3cki &amp; bun:ski"
+                "name": "n2ostudio.pl"
             },
             "tags": [
             ],
