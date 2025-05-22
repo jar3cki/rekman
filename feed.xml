@@ -5,14 +5,14 @@
     <link href="https://jar3cki.github.io/rekman" />
     <updated>2025-05-22T22:56:51+02:00</updated>
     <author>
-        <name>n2ostudio.pl</name>
+        <name>admin</name>
     </author>
     <id>https://jar3cki.github.io/rekman</id>
 
     <entry>
         <title>dane kontaktowe</title>
         <author>
-            <name>n2ostudio.pl</name>
+            <name>admin</name>
         </author>
         <link href="https://jar3cki.github.io/rekman/dane-kontaktowe.html"/>
         <id>https://jar3cki.github.io/rekman/dane-kontaktowe.html</id>
@@ -32,7 +32,7 @@
     <entry>
         <title>oferta</title>
         <author>
-            <name>n2ostudio.pl</name>
+            <name>admin</name>
         </author>
         <link href="https://jar3cki.github.io/rekman/test-test.html"/>
         <id>https://jar3cki.github.io/rekman/test-test.html</id>
@@ -40,12 +40,12 @@
         <updated>2025-05-22T22:34:25+02:00</updated>
             <summary>
                 <![CDATA[
-                    wynajem billboardów i innych powierzchni reklamowych montaż i wyklejanie billboardów budowa sieci tablic - usługa obejmuje pozyskanie lokalizacji pod tablice, produkcję tablic, ich instalację, druk i wyklejanie plakatów, serwis zdjęciowy.
+                    wynajem billboardów i innych powierzchni reklamowych montaż i wyklejanie billboardów budowa sieci tablic - usługa obejmuje pozyskanie lokalizacji pod tablice, produkcję tablic, ich instalację, druk&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://jar3cki.github.io/rekman/media/posts/1/1.jpg" alt="" width="998" height="400" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://jar3cki.github.io/rekman/media/posts/1/responsive/1-xs.jpg 640w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-sm.jpg 768w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-md.jpg 1024w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-lg.jpg 1366w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-xl.jpg 1600w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-2xl.jpg 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://jar3cki.github.io/rekman/media/posts/1/1.jpg" alt="" width="998" height="400" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://jar3cki.github.io/rekman/media/posts/1/responsive/1-xs.jpg 300w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-sm.jpg 480w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-md.jpg 768w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-lg.jpg 1024w"></figure>
 <ul>
 <li><span style="font-family: Arial, Helvetica, sans-serif; font-size: large;">wynajem billboardów i innych powierzchni reklamowych</span></li>
 <li><span style="font-family: Arial, Helvetica, sans-serif; font-size: large;">montaż i wyklejanie billboardów</span></li>
