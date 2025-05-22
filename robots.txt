@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jar3cki.github.io/rekman/sitemap.xml

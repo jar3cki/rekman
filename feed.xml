@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>rekman - reklama zewnętrzna</title>
+    <link href="https://jar3cki.github.io/rekman/feed.xml" rel="self" />
+    <link href="https://jar3cki.github.io/rekman" />
+    <updated>2025-05-22T22:34:25+02:00</updated>
+    <author>
+        <name>jar3cki &amp; bun:ski</name>
+    </author>
+    <id>https://jar3cki.github.io/rekman</id>
+
+    <entry>
+        <title>test test</title>
+        <author>
+            <name>jar3cki &amp; bun:ski</name>
+        </author>
+        <link href="https://jar3cki.github.io/rekman/test-test.html"/>
+        <id>https://jar3cki.github.io/rekman/test-test.html</id>
+
+        <updated>2025-05-22T22:34:25+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
