@@ -3,14 +3,34 @@
     <title>rekman - reklama zewnętrzna</title>
     <link href="https://jar3cki.github.io/rekman/feed.xml" rel="self" />
     <link href="https://jar3cki.github.io/rekman" />
-    <updated>2025-05-22T22:34:25+02:00</updated>
+    <updated>2025-05-22T22:56:51+02:00</updated>
     <author>
         <name>jar3cki &amp; bun:ski</name>
     </author>
     <id>https://jar3cki.github.io/rekman</id>
 
     <entry>
-        <title>test test</title>
+        <title>dane kontaktowe</title>
+        <author>
+            <name>jar3cki &amp; bun:ski</name>
+        </author>
+        <link href="https://jar3cki.github.io/rekman/dane-kontaktowe.html"/>
+        <id>https://jar3cki.github.io/rekman/dane-kontaktowe.html</id>
+
+        <updated>2025-05-22T22:56:51+02:00</updated>
+            <summary>
+                <![CDATA[
+                    REKMAN Zdzisław Kołodziej ul. Kmicica 10 65-123 Zielona Góra tel. 601 786 552 rekman@rekman.zgora.pl
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><strong>REKMAN Zdzisław Kołodziej</strong><br>ul. Kmicica 10<br>65-123 Zielona Góra<br>tel. 601 786 552<br><span style="color: #ba372a;"><a href="mailto" target="_blank" rel="noopener noreferrer" style="color: #ba372a;">rekman@rekman.zgora.pl</a></span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>oferta</title>
         <author>
             <name>jar3cki &amp; bun:ski</name>
         </author>
@@ -18,7 +38,20 @@
         <id>https://jar3cki.github.io/rekman/test-test.html</id>
 
         <updated>2025-05-22T22:34:25+02:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                    wynajem billboardów i innych powierzchni reklamowych montaż i wyklejanie billboardów budowa sieci tablic - usługa obejmuje pozyskanie lokalizacji pod tablice, produkcję tablic, ich instalację, druk&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://jar3cki.github.io/rekman/media/posts/1/1.jpg" alt="" width="998" height="400" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://jar3cki.github.io/rekman/media/posts/1/responsive/1-xs.jpg 300w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-sm.jpg 480w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-md.jpg 768w ,https://jar3cki.github.io/rekman/media/posts/1/responsive/1-lg.jpg 1024w"></figure>
+<ul>
+<li><span style="font-family: Arial, Helvetica, sans-serif; font-size: large;">wynajem billboardów i innych powierzchni reklamowych</span></li>
+<li><span style="font-family: Arial, Helvetica, sans-serif; font-size: large;">montaż i wyklejanie billboardów</span></li>
+<li><span style="font-family: Arial, Helvetica, sans-serif; font-size: large;">budowa sieci tablic<br>- usługa obejmuje pozyskanie lokalizacji pod tablice, produkcję tablic, ich instalację, druk i wyklejanie plakatów, serwis zdjęciowy.</span></li>
+</ul>
+            ]]>
+        </content>
     </entry>
 </feed>
